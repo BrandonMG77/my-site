@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-site/static/css/main.9ee1ecfd.chunk.css",
-    "main.js": "/my-site/static/js/main.fe4bd4cf.chunk.js",
-    "main.js.map": "/my-site/static/js/main.fe4bd4cf.chunk.js.map",
-    "runtime-main.js": "/my-site/static/js/runtime-main.2c7d9d4a.js",
-    "runtime-main.js.map": "/my-site/static/js/runtime-main.2c7d9d4a.js.map",
-    "static/js/2.a00654f1.chunk.js": "/my-site/static/js/2.a00654f1.chunk.js",
-    "static/js/2.a00654f1.chunk.js.map": "/my-site/static/js/2.a00654f1.chunk.js.map",
-    "static/js/3.986e88bf.chunk.js": "/my-site/static/js/3.986e88bf.chunk.js",
-    "static/js/3.986e88bf.chunk.js.map": "/my-site/static/js/3.986e88bf.chunk.js.map",
-    "index.html": "/my-site/index.html",
-    "static/css/main.9ee1ecfd.chunk.css.map": "/my-site/static/css/main.9ee1ecfd.chunk.css.map",
-    "static/js/2.a00654f1.chunk.js.LICENSE.txt": "/my-site/static/js/2.a00654f1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-site/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-selector/static/css/main.9ee1ecfd.chunk.css",
+    "main.js": "/react-selector/static/js/main.1c07e378.chunk.js",
+    "main.js.map": "/react-selector/static/js/main.1c07e378.chunk.js.map",
+    "runtime-main.js": "/react-selector/static/js/runtime-main.da060baf.js",
+    "runtime-main.js.map": "/react-selector/static/js/runtime-main.da060baf.js.map",
+    "static/js/2.a00654f1.chunk.js": "/react-selector/static/js/2.a00654f1.chunk.js",
+    "static/js/2.a00654f1.chunk.js.map": "/react-selector/static/js/2.a00654f1.chunk.js.map",
+    "static/js/3.986e88bf.chunk.js": "/react-selector/static/js/3.986e88bf.chunk.js",
+    "static/js/3.986e88bf.chunk.js.map": "/react-selector/static/js/3.986e88bf.chunk.js.map",
+    "index.html": "/react-selector/index.html",
+    "static/css/main.9ee1ecfd.chunk.css.map": "/react-selector/static/css/main.9ee1ecfd.chunk.css.map",
+    "static/js/2.a00654f1.chunk.js.LICENSE.txt": "/react-selector/static/js/2.a00654f1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-selector/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c7d9d4a.js",
+    "static/js/runtime-main.da060baf.js",
     "static/js/2.a00654f1.chunk.js",
     "static/css/main.9ee1ecfd.chunk.css",
-    "static/js/main.fe4bd4cf.chunk.js"
+    "static/js/main.1c07e378.chunk.js"
   ]
 }
